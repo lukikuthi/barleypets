@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="border-t border-brand-warm-white/10 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="font-body text-xs opacity-50">
-              © 2026 Barley Pets Clínica Veterinária Ltda. — CNPJ: 12.345.678/0001-90
+              © 2026 Barley Pets Clínica Veterinária Ltda. — Feito pelo melhor desenvolvedor para portfólio - Lucas Kikuthi.
             </p>
             <div className="flex flex-col md:flex-row gap-4 md:gap-6 font-body text-xs opacity-50 text-center md:text-left">
               <a href="#" className="hover:opacity-100 transition-opacity">Política de Privacidade</a>

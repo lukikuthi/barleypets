@@ -87,7 +87,7 @@ const Navbar = () => {
               </button>
             ))}
             <a
-              href="https://wa.me/5511999999999"
+              href="https://api.whatsapp.com/send/?phone=5511969987340&text=Ol%C3%A1%21+Gostaria+de+falar+com+o+Lucas&type=phone_number&app_absent=0"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-primary text-primary-foreground px-5 py-3 rounded-full font-bold font-body mt-2"
