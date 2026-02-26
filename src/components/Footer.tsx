@@ -25,7 +25,7 @@ const Footer = () => {
           <div>
             <h4 className="font-heading font-bold text-lg mb-4">Contato</h4>
             <ul className="space-y-3 font-body text-sm opacity-70">
-              <li className="flex items-center gap-2"><Phone className="w-4 h-4" /> (11) 3456-7890</li>
+              <li className="flex items-center gap-2"><Phone className="w-4 h-4" /> (11) 3456-9999</li>
               <li className="flex items-center gap-2"><MessageCircle className="w-4 h-4" /> (11) 99999-9999</li>
               <li className="flex items-start gap-2"><MapPin className="w-4 h-4 shrink-0 mt-0.5" /> Av. Paulista, 1578 - Sala 302, São Paulo - SP</li>
             </ul>
@@ -34,10 +34,10 @@ const Footer = () => {
           <div>
             <h4 className="font-heading font-bold text-lg mb-4">Redes Sociais</h4>
             <div className="flex gap-3">
-              <a href="https://instagram.com/barleypets" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-brand-warm-white/10 flex items-center justify-center hover:bg-brand-warm-white/20 transition-colors">
+              <a href="https://www.instagram.com/lukikuthi.dev/" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-brand-warm-white/10 flex items-center justify-center hover:bg-brand-warm-white/20 transition-colors">
                 <Instagram className="w-5 h-5" />
               </a>
-              <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-brand-warm-white/10 flex items-center justify-center hover:bg-brand-warm-white/20 transition-colors">
+              <a href="https://api.whatsapp.com/send/?phone=5511969987340&text=Ol%C3%A1%21+Gostaria+de+falar+com+o+Lucas&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer" className="w-10 h-10 rounded-full bg-brand-warm-white/10 flex items-center justify-center hover:bg-brand-warm-white/20 transition-colors">
                 <MessageCircle className="w-5 h-5" />
               </a>
             </div>
